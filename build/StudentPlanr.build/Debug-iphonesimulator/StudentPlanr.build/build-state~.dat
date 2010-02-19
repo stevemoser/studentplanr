@@ -1,0 +1,381 @@
+TStudentPlanr
+v7
+r0
+t287973680.302713
+cCheck dependencies
+cProcessInfoPlistFile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Info.plist StudentPlanr-Info.plist
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib
+cCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib
+cProcessPCH /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch.gch StudentPlanr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr normal i386
+cGenerateDSYMFile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app.dSYM /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr
+cTouch /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF676D00000000000000EE
+t1255106413
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib
+c000000004B79E4E500000000000056F4
+t1266279653
+s22260
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.h
+c000000004B79E02F00000000000000E6
+t1266278447
+s230
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m
+c000000004B79E02F00000000000005AB
+t1266278447
+s1451
+i"FirstViewController.h"
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.h
+c000000004B79E02F00000000000001DF
+t1266278447
+s479
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m
+c000000004B79E02F00000000000003C5
+t1266278447
+s965
+i"StudentPlanrAppDelegate.h"
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib
+c000000004B79E5820000000000004F80
+t1266279810
+s20352
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib
+c000000004B79E88400000000000014D9
+t1266280580
+s5337
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib
+c000000004B79E6F500000000000014D9
+t1266280181
+s5337
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib
+c000000004B79E66C0000000000006405
+t1266280044
+s25605
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SecondView.xib
+c000000004B79E30B0000000000006494
+t1266279179
+s25748
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib
+c000000004B79E64D00000000000014D9
+t1266280013
+s5337
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingsView.xib
+c000000004B79E64D00000000000014D9
+t1266280013
+s5337
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/StudentPlanr_Prefix.pch
+c000000004B79E02F00000000000000C1
+t1266278447
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib
+c000000004B79E5F90000000000005089
+t1266279929
+s20617
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app
+t1266280880
+s408
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app.dSYM
+t1266280880
+s102
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/CalendarView.nib
+t1266280878
+s2105
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/ClassesView.nib
+t1266280878
+s1942
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/DetailView.nib
+t1266280878
+s960
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Info.plist
+t1266280877
+s584
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Login.nib
+t1266280878
+s960
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/MainWindow.nib
+t1266280877
+s2858
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/PkgInfo
+t1266280877
+s8
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/SecondView.nib
+t2
+s0
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/SettingView.nib
+t1266280878
+s960
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/SettingsView.nib
+t2
+s0
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr
+t1266280880
+s19616
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/TodoView.nib
+t1266280877
+s1940
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/untitled.nib
+t2
+s0
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o
+t1266280880
+s29960
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanr.LinkFileList
+c000000004B79E9AD00000000000001EA
+t1266280877
+s490
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o
+t1266280880
+s41008
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o
+t1266280880
+s5996
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m
+c000000004B79E02F0000000000000161
+t1266278447
+s353
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/untitled.xib
+c000000004B79E6F500000000000014D9
+t1266280181
+s5337
+
+N/var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch.gch
+t1266280879
+s13034960
+
+NStudentPlanr-Info.plist
+c000000004B79E02F000000000000038D
+t1266278447
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287973677#287973677#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287973680.131994
+e287973680.215901
+r1
+xCompileC
+xbuild/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m287973680#287973680#0(0"0(0#0#88"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m4300885448#2279"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-generated-files.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-own-target-headers.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-all-target-headers.hmap -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-project-headers.hmap -F/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/include -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources/i386 -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources -include /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch -c /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/FirstViewController.m -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287973680.025297
+e287973680.131890
+r1
+xCompileC
+xbuild/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m287973680#287973680#0(0"0(0#0#92"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m4300885448#2287"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-generated-files.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-own-target-headers.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-all-target-headers.hmap -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-project-headers.hmap -F/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/include -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources/i386 -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources -include /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch -c /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Classes/StudentPlanrAppDelegate.m -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o0#
+
+CCompileC build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287973680.024116
+e287973680.165713
+r1
+xCompileC
+xbuild/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m287973680#287973680#0(0"0(0#0#65"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m4300885448#2241"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-generated-files.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-own-target-headers.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-all-target-headers.hmap -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-project-headers.hmap -F/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/include -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources/i386 -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources -include /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch -c /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/main.m -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib
+s287973677.787852
+e287973678.164469
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib
+lSLF07#2@27"CompileXIB CalendarView.xib287973677#287973678#0(0"0(0#0#75"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib4300885448#613"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/CalendarView.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/CalendarView.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib
+s287973677.816439
+e287973678.194958
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib
+lSLF07#2@26"CompileXIB ClassesView.xib287973677#287973678#0(0"0(0#0#74"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib4300885448#611"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/ClassesView.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/ClassesView.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib
+s287973678.484350
+e287973678.759128
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib287973678#287973678#0(0"0(0#0#73"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib4300885448#609"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/DetailView.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/DetailView.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib
+s287973678.195054
+e287973678.563679
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib
+lSLF07#2@20"CompileXIB Login.xib287973678#287973678#0(0"0(0#0#68"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib4300885448#599"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Login.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/Login.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib
+s287973677.406050
+e287973677.787753
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287973677#287973677#0(0"0(0#0#73"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib4300885448#609"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/MainWindow.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/MainWindow.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SecondView.xib
+r0
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib
+s287973678.164575
+e287973678.484220
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib
+lSLF07#2@26"CompileXIB SettingView.xib287973678#287973678#0(0"0(0#0#74"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib4300885448#611"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/SettingView.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingView.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/SettingsView.xib
+r0
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib
+s287973677.407221
+e287973677.816338
+r1
+xCompileXIB
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib
+lSLF07#2@23"CompileXIB TodoView.xib287973677#287973677#0(0"0(0#0#71"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib4300885448#605"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/TodoView.nib /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/TodoView.xib0#
+
+CCompileXIB /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/untitled.xib
+r0
+
+CGenerateDSYMFile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app.dSYM /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr
+s287973680.256141
+e287973680.291392
+r1
+xGenerateDSYMFile
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app.dSYM
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/StudentPlanr.app.dSYM build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr287973680#287973680#0(0"0(0#0#116"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr4300885448#520"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app.dSYM0#
+
+CLd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr normal i386
+s287973680.216005
+e287973680.256032
+r1
+xLd
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr
+xnormal
+xi386
+lSLF07#2@121"Link /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr287973680#287973680#0(0"0(0#0#0"4300885448#1051"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -F/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -filelist /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanr.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/StudentPlanr0#
+
+CProcessInfoPlistFile /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Info.plist StudentPlanr-Info.plist
+s287973677.400015
+e287973677.405474
+r1
+xProcessInfoPlistFile
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Info.plist
+xStudentPlanr-Info.plist
+lSLF07#2@31"Process StudentPlanr-Info.plist287973677#287973677#0(0"0(0#0#82"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/StudentPlanr-Info.plist27303536605069420#616"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility StudentPlanr-Info.plist -genpkginfo /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app/Info.plist0#
+
+CProcessPCH /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch.gch StudentPlanr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287973678.759268
+e287973680.023946
+r1
+xProcessPCH
+x/var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch.gch
+xStudentPlanr_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile StudentPlanr_Prefix.pch287973678#287973680#0(0"0(0#0#82"/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/StudentPlanr_Prefix.pch4300885448#2108"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-generated-files.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-own-target-headers.hmap -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-all-target-headers.hmap -iquote /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/StudentPlanr-project-headers.hmap -F/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/include -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources/i386 -I/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/DerivedSources -c /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/StudentPlanr_Prefix.pch -o /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/StudentPlanr_Prefix-gbdmhzqubhqibvaprypvnljxmqel/StudentPlanr_Prefix.pch.gch0#
+
+CTouch /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app
+s287973680.291506
+e287973680.302656
+r1
+xTouch
+x/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app
+lSLF07#2@109"Touch /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app287973680#287973680#0(0"0(0#0#0"4300885448#385"    cd /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/Debug-iphonesimulator/StudentPlanr.app0#
+
