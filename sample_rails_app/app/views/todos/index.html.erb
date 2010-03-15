@@ -1,0 +1,32 @@
+<h1>Listing todos</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>User</th>
+    <th>Start time</th>
+    <th>End time</th>
+    <th>Location</th>
+    <th>Calendar</th>
+    <th>Description</th>
+  </tr>
+
+<% for todos in @todos %>
+  <tr>
+    <td><%=h todos.name %></td>
+    <td><%=h todos.user_id %></td>
+    <td><%=h todos.start_time %></td>
+    <td><%=h todos.end_time %></td>
+    <td><%=h todos.location %></td>
+    <td><%=h todos.calendar %></td>
+    <td><%=h todos.description %></td>
+    <td><%= link_to 'Show', todos %></td>
+    <td><%= link_to 'Edit', edit_todos_path(todos) %></td>
+    <td><%= link_to 'Destroy', todos, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New todos', new_todos_path %>

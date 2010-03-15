@@ -1,0 +1,38 @@
+<p>
+  <b>Name:</b>
+  <%=h @todos.name %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%=h @todos.user_id %>
+</p>
+
+<p>
+  <b>Start time:</b>
+  <%=h @todos.start_time %>
+</p>
+
+<p>
+  <b>End time:</b>
+  <%=h @todos.end_time %>
+</p>
+
+<p>
+  <b>Location:</b>
+  <%=h @todos.location %>
+</p>
+
+<p>
+  <b>Calendar:</b>
+  <%=h @todos.calendar %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @todos.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_todos_path(@todos) %> |
+<%= link_to 'Back', todos_path %>

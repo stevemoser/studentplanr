@@ -1,17 +1,17 @@
 //
 //  main.m
-//  StudentPlanr
+//  active_resource
 //
-//  Created by Steve Moser on 2/15/10.
-//  Copyright MetaEdged 2010. All rights reserved.
+//  Created by vickeryj on 8/21/08.
+//  Copyright Joshua Vickery 2008. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
 int main(int argc, char *argv[]) {
-    NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
-    int retVal = UIApplicationMain(argc, argv, nil, nil);
-    [pool release];
-    return retVal;
+	
+	NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
+	int retVal = UIApplicationMain(argc, argv, nil, nil);
+	[pool release];
+	return retVal;
 }
-

@@ -1,3 +1,43 @@
-/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/main.o
-/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/StudentPlanrAppDelegate.o
-/Users/stevemoser/Documents/Code/Cocoa/iPhone/StudentPlanr/build/StudentPlanr.build/Debug-iphonesimulator/StudentPlanr.build/Objects-normal/i386/FirstViewController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/ConnectionManager.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/main.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/StudentplanerAppDelegate.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/AddTodoViewController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/EditTodoController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/TodosViewController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/Todo.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/ViewTodoController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/DateHelpers.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/UIHelpers.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/User.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/Session.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/AuthenticationViewController.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/Connection.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/ConnectionDelegate.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSHTTPURLResponse+Error.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSMutableURLRequest+ResponseType.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+ObjectiveResource.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSString+InflectionSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSData+Additions.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+PropertySupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSString+GSub.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/ObjectiveResourceDateFormatter.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+SBJSON.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSString+SBJSON.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/SBJSON.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSArray+JSONSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSDictionary+JSONSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+JSONSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSDate+Serialize.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSDictionary+KeyTranslation.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+Serialize.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSString+Serialize.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/FromXMLElementDelegate.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSArray+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSDate+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSDictionary+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSNull+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSNumber+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSObject+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/NSString+XMLSerializableSupport.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/ObjectiveResourceConfig.o
+/Users/stevemoser/Downloads/rubygems-1.3.6/Expenses/server/objective_resource_mod copy/build/Studentplanr.build/Debug-iphonesimulator/Studentplanr.build/Objects-normal/i386/Response.o

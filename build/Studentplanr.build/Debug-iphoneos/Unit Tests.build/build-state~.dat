@@ -1,0 +1,1180 @@
+TUnit Tests
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004ABDAC790000000000000110
+t1253944441
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/TargetConditionals.h
+c000000004A0BB10100000000000031B4
+t1242280193
+s12724
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/objc/runtime.h
+c000000004A0BA80F0000000000004FE4
+t1242277903
+s20452
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdio.h
+c000000004A0BA3140000000000003D1D
+t1242276628
+s15645
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/lib/gcc/arm-apple-darwin9/4.2.1/include/stdarg.h
+c0000000049FBCC3900000000000010DD
+t1241238585
+s4317
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddDogViewController.h
+c0000000049ABEB8600000000000001A2
+t1236003718
+s418
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddDogViewController.m
+c0000000049ABEB8600000000000003DC
+t1236003718
+s988
+i"AddDogViewController.h"
+i"Dog.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddPersonView.xib
+c0000000049ABEB8600000000000029AF
+t1236003718
+s10671
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddPersonViewController.h
+c0000000049ABEB8600000000000001E1
+t1236003718
+s481
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddPersonViewController.m
+c0000000049ABEB8600000000000003D8
+t1236003718
+s984
+i"AddPersonViewController.h"
+i"Person.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/Dog.h
+c0000000049ABEB86000000000000022E
+t1236003718
+s558
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/Dog.m
+c0000000049ABEB860000000000000504
+t1236003718
+s1284
+i"Dog.h"
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogErrorTest.h
+c0000000049ABEB860000000000000158
+t1236003718
+s344
+i"GTMSenTestCase.h"
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogErrorTest.m
+c0000000049ABEB86000000000000043E
+t1236003718
+s1086
+i"DogErrorTest.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogTest.h
+c0000000049ABEB86000000000000012F
+t1236003718
+s303
+i"GTMSenTestCase.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogTest.m
+c0000000049ABEB860000000000000D2E
+t1236003718
+s3374
+i"DogTest.h"
+i"Dog.h"
+i"Person.h"
+i"NSString+XMLSerializableSupport.h"
+i"ItemIds.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.h
+c0000000049ABEB86000000000000029F
+t1236003718
+s671
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.m
+c0000000049ABEB860000000000000BDD
+t1236003718
+s3037
+i"DogViewController.h"
+i"Dog.h"
+i"Person.h"
+i"AddDogViewController.h"
+i"ViewDogController.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.xib
+c0000000049ABEB8600000000000029BF
+t1236003718
+s10687
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditDogViewController.h
+c0000000049ABEB860000000000000238
+t1236003718
+s568
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditDogViewController.m
+c0000000049ABEB8600000000000005A1
+t1236003718
+s1441
+i"Dog.h"
+i"ViewDogController.h"
+i"EditDogViewController.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.h
+c0000000049ABEB86000000000000022D
+t1236003718
+s557
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.m
+c0000000049ABEB860000000000000400
+t1236003718
+s1024
+i"EditPersonController.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.xib
+c0000000049ABEB860000000000002537
+t1236003718
+s9527
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/ItemIds.h
+c0000000049ABEB86000000000000003D
+t1236003718
+s61
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/PeopleViewController.h
+c0000000049ABEB860000000000000233
+t1236003718
+s563
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/PeopleViewController.m
+c0000000049ABEB860000000000000A3D
+t1236003718
+s2621
+i"PeopleViewController.h"
+i"ViewPersonController.h"
+i"Person.h"
+i"AddPersonViewController.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/Person.h
+c0000000049ABEB860000000000000249
+t1236003718
+s585
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/Person.m
+c0000000049ABEB86000000000000036F
+t1236003718
+s879
+i"Person.h"
+i"Dog.h"
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/PersonTest.h
+c0000000049ABEB8600000000000000DD
+t1236003718
+s221
+i"GTMSenTestCase.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/PersonTest.m
+c0000000049ABEB8600000000000007E2
+t1236003718
+s2018
+i"PersonTest.h"
+i"Person.h"
+i"ItemIds.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/ViewDogController.h
+c0000000049ABEB860000000000000254
+t1236003718
+s596
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/ViewDogController.m
+c0000000049ABEB860000000000000C7A
+t1236003718
+s3194
+i"Dog.h"
+i"EditDogViewController.h"
+i"ViewDogController.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/ViewPersonController.h
+c0000000049ABEB860000000000000199
+t1236003718
+s409
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/ViewPersonController.m
+c0000000049ABEB860000000000000AEA
+t1236003718
+s2794
+i"ViewPersonController.h"
+i"AddPersonViewController.h"
+i"DogViewController.h"
+i"Person.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/Connection.h
+c0000000049ABEB860000000000000315
+t1236003718
+s789
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/Connection.m
+c0000000049ABEB860000000000001574
+t1236003718
+s5492
+i"Connection.h"
+i"Response.h"
+i"NSData+Additions.h"
+i"NSMutableURLRequest+ResponseType.h"
+i"ConnectionDelegate.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/ConnectionDelegate.h
+c0000000049ABEB86000000000000024A
+t1236003718
+s586
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/ConnectionDelegate.m
+c0000000049ABEB8600000000000007E6
+t1236003718
+s2022
+i"ConnectionDelegate.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSHTTPURLResponse+Error.h
+c0000000049ABEB86000000000000011E
+t1236003718
+s286
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSHTTPURLResponse+Error.m
+c0000000049ABEB86000000000000039A
+t1236003718
+s922
+i"NSHTTPURLResponse+Error.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSMutableURLRequest+ResponseType.h
+c0000000049ABEB860000000000000129
+t1236003718
+s297
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSMutableURLRequest+ResponseType.m
+c0000000049ABEB86000000000000041A
+t1236003718
+s1050
+i"NSMutableURLRequest+ResponseType.h"
+i"ObjectiveResource.h"
+i"Connection.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSObject+ObjectiveResource.h
+c0000000049ABEB860000000000000A57
+t1236003718
+s2647
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/NSObject+ObjectiveResource.m
+c0000000049ABEB860000000000002637
+t1236003718
+s9783
+i"NSObject+ObjectiveResource.h"
+i"Connection.h"
+i"Response.h"
+i"CoreSupport.h"
+i"XMLSerializableSupport.h"
+i"JSONSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/ObjectiveResource.h
+c0000000049ABEB8600000000000000D1
+t1236003718
+s209
+i"NSObject+ObjectiveResource.h"
+i"ObjectiveResourceConfig.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/ObjectiveResourceConfig.h
+c0000000049ABEB8600000000000002F6
+t1236003718
+s758
+i"ObjectiveResource.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/ObjectiveResourceConfig.m
+c0000000049ABEB86000000000000053B
+t1236003718
+s1339
+i"ObjectiveResourceConfig.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/Response.h
+c0000000049ABEB86000000000000033C
+t1236003718
+s828
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/Response.m
+c0000000049ABEB8600000000000005F7
+t1236003718
+s1527
+i"Response.h"
+i"NSHTTPURLResponse+Error.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/CoreSupport.h
+c0000000049ABEB8600000000000000E6
+t1236003718
+s230
+i"NSString+GSub.h"
+i"NSString+InflectionSupport.h"
+i"NSObject+PropertySupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/Inflections/NSString+InflectionSupport.h
+c0000000049ABEB860000000000000378
+t1236003718
+s888
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/Inflections/NSString+InflectionSupport.m
+c0000000049ABEB86000000000000097F
+t1236003718
+s2431
+i"NSString+InflectionSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSData+Additions.h
+c0000000049ABEB86000000000000019D
+t1236003718
+s413
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSData+Additions.m
+c0000000049ABEB86000000000000114F
+t1236003718
+s4431
+i"NSData+Additions.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSObject+PropertySupport.h
+c0000000049ABEB8600000000000002A0
+t1236003718
+s672
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSObject+PropertySupport.m
+c0000000049ABEB860000000000000924
+t1236003718
+s2340
+i"objc/runtime.h"
+i"NSObject+PropertySupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSString+GSub.h
+c0000000049ABEB8600000000000001B5
+t1236003718
+s437
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSString+GSub.m
+c0000000049ABEB86000000000000024C
+t1236003718
+s588
+i"NSString+GSub.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/ObjectiveResourceDateFormatter.h
+c0000000049ABEB860000000000000260
+t1236003718
+s608
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/ObjectiveResourceDateFormatter.m
+c0000000049ABEB86000000000000082C
+t1236003718
+s2092
+i"ObjectiveResourceDateFormatter.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/ObjectiveSupport.h
+c0000000049ABEB8600000000000000E4
+t1236003718
+s228
+i"CoreSupport.h"
+i"XMLSerializableSupport.h"
+i"JSONSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/JSONSerializable.h
+c0000000049ABEB8600000000000009F0
+t1236003718
+s2544
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/JSONSerializableSupport.h
+c0000000049ABEB86000000000000005D
+t1236003718
+s93
+i"NSObject+JSONSerializableSupport.h"
+i"NSDictionary+JSONSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSArray+JSONSerializableSupport.h
+c0000000049ABEB860000000000000179
+t1236003718
+s377
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSArray+JSONSerializableSupport.m
+c0000000049ABEB860000000000000352
+t1236003718
+s850
+i"JSONFramework.h"
+i"NSObject+JSONSerializableSupport.h"
+i"NSArray+JSONSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSDictionary+JSONSerializableSupport.h
+c0000000049ABEB860000000000000161
+t1236003718
+s353
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSDictionary+JSONSerializableSupport.m
+c0000000049ABEB8600000000000003B8
+t1236003718
+s952
+i"JSONFramework.h"
+i"NSDictionary+KeyTranslation.h"
+i"NSDictionary+JSONSerializableSupport.h"
+i"ObjectiveSupport.h"
+i"Serialize.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSObject+JSONSerializableSupport.h
+c0000000049ABEB86000000000000031B
+t1236003718
+s795
+i<Foundation/Foundation.h>
+i"JSONSerializable.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSObject+JSONSerializableSupport.m
+c0000000049ABEB860000000000000FEE
+t1236003718
+s4078
+i"NSObject+JSONSerializableSupport.h"
+i"NSDictionary+JSONSerializableSupport.h"
+i"Serialize.h"
+i"JSONFramework.h"
+i"ObjectiveSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDate+Serialize.h
+c0000000049ABEB8600000000000000F7
+t1236003718
+s247
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDate+Serialize.m
+c0000000049ABEB8600000000000001E6
+t1236003718
+s486
+i"NSDate+Serialize.h"
+i"ObjectiveResourceDateFormatter.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDictionary+KeyTranslation.h
+c0000000049ABEB860000000000000149
+t1236003718
+s329
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDictionary+KeyTranslation.m
+c0000000049ABEB8600000000000001BB
+t1236003718
+s443
+i"NSDictionary+KeyTranslation.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSObject+Serialize.h
+c0000000049ABEB8600000000000000ED
+t1236003718
+s237
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSObject+Serialize.m
+c0000000049ABEB860000000000000136
+t1236003718
+s310
+i"NSObject+Serialize.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSString+Serialize.h
+c0000000049ABEB8600000000000000FE
+t1236003718
+s254
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSString+Serialize.m
+c0000000049ABEB86000000000000013E
+t1236003718
+s318
+i"NSString+Serialize.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/Serialize.h
+c0000000049ABEB8600000000000000E9
+t1236003718
+s233
+i"NSObject+Serialize.h"
+i"NSDate+Serialize.h"
+i"NSString+Serialize.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/FromXMLElementDelegate.h
+c0000000049ABEB8600000000000004F9
+t1236003718
+s1273
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/FromXMLElementDelegate.m
+c0000000049ABEB860000000000001BF0
+t1236003718
+s7152
+i"FromXMLElementDelegate.h"
+i"XMLSerializableSupport.h"
+i"CoreSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSArray+XMLSerializableSupport.h
+c0000000049ABEB8600000000000000FE
+t1236003718
+s254
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSArray+XMLSerializableSupport.m
+c0000000049ABEB8600000000000003BA
+t1236003718
+s954
+i"NSArray+XMLSerializableSupport.h"
+i"NSObject+XMLSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDate+XMLSerializableSupport.h
+c0000000049ABEB86000000000000014B
+t1236003718
+s331
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDate+XMLSerializableSupport.m
+c0000000049ABEB8600000000000003E5
+t1236003718
+s997
+i"NSDate+XMLSerializableSupport.h"
+i"NSObject+XMLSerializableSupport.h"
+i"ObjectiveResourceDateFormatter.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDictionary+XMLSerializableSupport.h
+c0000000049ABEB86000000000000020D
+t1236003718
+s525
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDictionary+XMLSerializableSupport.m
+c0000000049ABEB8600000000000004E5
+t1236003718
+s1253
+i"NSObject+XMLSerializableSupport.h"
+i"NSDictionary+KeyTranslation.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNull+XMLSerializableSupport.h
+c0000000049ABEB8600000000000000DD
+t1236003718
+s221
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNull+XMLSerializableSupport.m
+c0000000049ABEB86000000000000011F
+t1236003718
+s287
+i"NSNull+XMLSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNumber+XMLSerializableSupport.h
+c0000000049ABEB8600000000000000F0
+t1236003718
+s240
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNumber+XMLSerializableSupport.m
+c0000000049ABEB86000000000000027E
+t1236003718
+s638
+i"NSObject+XMLSerializableSupport.h"
+i"NSNumber+XMLSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSObject+XMLSerializableSupport.h
+c0000000049ABEB86000000000000064F
+t1236003718
+s1615
+i"XMLSerializable.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSObject+XMLSerializableSupport.m
+c0000000049ABEB860000000000001161
+t1236003718
+s4449
+i"NSObject+XMLSerializableSupport.h"
+i"NSDictionary+XMLSerializableSupport.h"
+i"CoreSupport.h"
+i"FromXMLElementDelegate.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSString+XMLSerializableSupport.h
+c0000000049ABEB8600000000000001C9
+t1236003718
+s457
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSString+XMLSerializableSupport.m
+c0000000049ABEB86000000000000044E
+t1236003718
+s1102
+i"NSString+XMLSerializableSupport.h"
+i"NSObject+XMLSerializableSupport.h"
+i"NSString+GSub.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/XMLSerializable.h
+c0000000049ABEB860000000000000A26
+t1236003718
+s2598
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/XMLSerializableSupport.h
+c0000000049ABEB86000000000000016B
+t1236003718
+s363
+i"XMLSerializable.h"
+i"CoreSupport.h"
+i"NSObject+XMLSerializableSupport.h"
+i"NSNull+XMLSerializableSupport.h"
+i"NSDate+XMLSerializableSupport.h"
+i"NSString+XMLSerializableSupport.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/JSONFramework.h
+c0000000049ABEB8600000000000000D9
+t1236003718
+s217
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSObject+SBJSON.h
+c0000000049ABEB860000000000000888
+t1236003718
+s2184
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSObject+SBJSON.m
+c0000000049ABEB860000000000000821
+t1236003718
+s2081
+i"NSObject+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSString+SBJSON.h
+c0000000049ABEB860000000000000705
+t1236003718
+s1797
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSString+SBJSON.m
+c0000000049ABEB8600000000000007DA
+t1236003718
+s2010
+i"NSString+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/SBJSON.h
+c0000000049ABEB8600000000000013CF
+t1236003718
+s5071
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/SBJSON.m
+c0000000049ABEB860000000000005A98
+t1236003718
+s23192
+i"SBJSON.h"
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app
+t1267114837
+s340
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app.dSYM
+t1267114837
+s102
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/AddPersonView.nib
+t1267114833
+s1963
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/DogViewController.nib
+t1267114833
+s1641
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/EditPersonController.nib
+t1267114834
+s1744
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/Info.plist
+t1267114830
+s539
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/PkgInfo
+t1267114830
+s8
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/ResourceRules.plist
+t1267114830
+s485
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/Unit Tests
+t1267114837
+s222268
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/embedded.mobileprovision
+t1267114837
+s7159
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/AddDogViewController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/AddPersonViewController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Connection.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ConnectionDelegate.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Dog.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogErrorTest.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogTest.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogViewController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/EditDogViewController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/EditPersonController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/FromXMLElementDelegate.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMIPhoneUnitTestDelegate.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMIPhoneUnitTestMain.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMSenTestCase.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSArray+JSONSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSArray+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSData+Additions.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDate+Serialize.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDate+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+JSONSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+KeyTranslation.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSHTTPURLResponse+Error.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSMutableURLRequest+ResponseType.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSNull+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSNumber+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+JSONSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+ObjectiveResource.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+PropertySupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+Serialize.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+GSub.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+InflectionSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+Serialize.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+XMLSerializableSupport.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ObjectiveResourceConfig.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ObjectiveResourceDateFormatter.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/PeopleViewController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Person.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/PersonTest.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Response.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/SBJSON.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Unit Tests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ViewDogController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ViewPersonController.o
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Script-35C679680F2E7803005FF6CE.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/GTMDefines.h
+c0000000049ABEB860000000000001A17
+t1236003718
+s6679
+i<TargetConditionals.h>
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMIPhoneUnitTestDelegate.h
+c0000000049ABEB860000000000000499
+t1236003718
+s1177
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMIPhoneUnitTestDelegate.m
+c0000000049ABEB86000000000000188B
+t1236003718
+s6283
+i"GTMIPhoneUnitTestDelegate.h"
+i"GTMDefines.h"
+i<objc/runtime.h>
+i<stdio.h>
+i<UIKit/UIKit.h>
+i"GTMSenTestCase.h"
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMIPhoneUnitTestMain.m
+c0000000049ABEB86000000000000046A
+t1236003718
+s1130
+i"GTMDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMSenTestCase.h
+c0000000049ABEB86000000000000C301
+t1236003718
+s49921
+i"GTMDefines.h"
+i<SenTestingKit/SenTestingKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMSenTestCase.m
+c0000000049ABEB860000000000001B79
+t1236003718
+s7033
+i"GTMSenTestCase.h"
+i<stdarg.h>
+
+N/Users/stevemoser/Library/MobileDevice/Provisioning Profiles/842BC540-2098-4DDC-90B3-676A2D640412.mobileprovision
+c000000004A0C38A00000000000001BF7
+t1242314912
+s7159
+
+N/var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/UIKit-gsiswxcdjrboucajtjqkfiwbgmrz/UIKit.h.gch
+t1267114834
+s7831652
+
+NUnit Tests-Info.plist
+c0000000049ABEB8600000000000002B1
+t1236003718
+s689
+
+CCodeSign "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app"
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/AddDogViewController.o" /Users/stevemoser/Downloads/objective_resource/Classes/AddDogViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/AddPersonViewController.o" /Users/stevemoser/Downloads/objective_resource/Classes/AddPersonViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Connection.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/Connection.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ConnectionDelegate.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/ConnectionDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Dog.o" /Users/stevemoser/Downloads/objective_resource/Classes/Dog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogErrorTest.o" /Users/stevemoser/Downloads/objective_resource/Classes/DogErrorTest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogTest.o" /Users/stevemoser/Downloads/objective_resource/Classes/DogTest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/DogViewController.o" /Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/EditDogViewController.o" /Users/stevemoser/Downloads/objective_resource/Classes/EditDogViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/EditPersonController.o" /Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/FromXMLElementDelegate.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/FromXMLElementDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMIPhoneUnitTestDelegate.o" /Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMIPhoneUnitTestDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMIPhoneUnitTestMain.o" /Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMIPhoneUnitTestMain.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/GTMSenTestCase.o" /Users/stevemoser/Downloads/objective_resource/google_toolbar/UnitTesting/GTMSenTestCase.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSArray+JSONSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSArray+JSONSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSArray+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSArray+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSData+Additions.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSData+Additions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDate+Serialize.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDate+Serialize.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDate+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDate+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+JSONSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSDictionary+JSONSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+KeyTranslation.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSDictionary+KeyTranslation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSDictionary+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSDictionary+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSHTTPURLResponse+Error.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/NSHTTPURLResponse+Error.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSMutableURLRequest+ResponseType.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/NSMutableURLRequest+ResponseType.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSNull+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNull+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSNumber+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSNumber+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+JSONSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/JSON/NSObject+JSONSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+ObjectiveResource.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/NSObject+ObjectiveResource.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+PropertySupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSObject+PropertySupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+SBJSON.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSObject+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+Serialize.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSObject+Serialize.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSObject+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSObject+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+GSub.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/NSString+GSub.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+InflectionSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/Inflections/NSString+InflectionSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+SBJSON.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/NSString+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+Serialize.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/NSString+Serialize.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/NSString+XMLSerializableSupport.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Serialization/XML/NSString+XMLSerializableSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ObjectiveResourceConfig.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/ObjectiveResourceConfig.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ObjectiveResourceDateFormatter.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/Core/ObjectiveResourceDateFormatter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/PeopleViewController.o" /Users/stevemoser/Downloads/objective_resource/Classes/PeopleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Person.o" /Users/stevemoser/Downloads/objective_resource/Classes/Person.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/PersonTest.o" /Users/stevemoser/Downloads/objective_resource/Classes/PersonTest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/Response.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/Response.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/SBJSON.o" /Users/stevemoser/Downloads/objective_resource/Classes/lib/objective_support/Classes/lib/json-framework/SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ViewDogController.o" /Users/stevemoser/Downloads/objective_resource/Classes/ViewDogController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Objects-normal/armv6/ViewPersonController.o" /Users/stevemoser/Downloads/objective_resource/Classes/ViewPersonController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/AddPersonView.xib
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.xib
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.xib
+r0
+
+CCpResource "build/Debug-iphoneos/Unit Tests.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app.dSYM" "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/Unit Tests"
+r0
+
+CLd "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/Unit Tests" normal armv6
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Script-35C679680F2E7803005FF6CE.sh"
+r0
+
+CProcessInfoPlistFile "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/Info.plist" "Unit Tests-Info.plist"
+r0
+
+CProcessPCH /var/folders/ei/eiVF5gazHNCulTiHpnWIYU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/UIKit-gsiswxcdjrboucajtjqkfiwbgmrz/UIKit.h.gch /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/stevemoser/Library/MobileDevice/Provisioning Profiles/842BC540-2098-4DDC-90B3-676A2D640412.mobileprovision" "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist "/Users/stevemoser/Downloads/objective_resource/build/Studentplanr.build/Debug-iphoneos/Unit Tests.build/Unit Tests.xcent"
+r0
+
+CTouch "/Users/stevemoser/Downloads/objective_resource/build/Debug-iphoneos/Unit Tests.app"
+r0
+

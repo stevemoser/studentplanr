@@ -1,0 +1,74 @@
+TCoverage
+v7
+r1
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/AddPersonView.xib
+c0000000049ABEB8600000000000029AF
+t1236003718
+s10671
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.xib
+c0000000049ABEB8600000000000029BF
+t1236003718
+s10687
+
+N/Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.xib
+c0000000049ABEB860000000000002537
+t1236003718
+s9527
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/Info.plist
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/Resources/AddPersonView.nib
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/Resources/DogViewController.nib
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/Resources/EditPersonController.nib
+t2
+s0
+
+N/Users/stevemoser/Downloads/objective_resource/build/objective_resource.build/Debug/Coverage.build/Script-23B8A4630F55EF7C00F74584.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NCoverage.plist
+c0000000049ABEB8600000000000002B1
+t1236003718
+s689
+
+CCodeSign "/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app"
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/AddPersonView.xib
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/DogViewController.xib
+r0
+
+CCompileXIB /Users/stevemoser/Downloads/objective_resource/Classes/EditPersonController.xib
+r0
+
+CPhaseScriptExecution "Run Script" /Users/stevemoser/Downloads/objective_resource/build/objective_resource.build/Debug/Coverage.build/Script-23B8A4630F55EF7C00F74584.sh
+r0
+
+CProcessInfoPlistFile "/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app/Contents/Info.plist" Coverage.plist
+r0
+
+CTouch "/Users/stevemoser/Downloads/objective_resource/build/Debug/Unit Tests.app"
+r0
+

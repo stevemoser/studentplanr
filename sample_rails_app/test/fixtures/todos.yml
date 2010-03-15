@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  user_id: 1
+  start_time: MyString
+  end_time: MyString
+  location: MyString
+  calendar: MyString
+  description: MyString
+
+two:
+  name: MyString
+  user_id: 1
+  start_time: MyString
+  end_time: MyString
+  location: MyString
+  calendar: MyString
+  description: MyString

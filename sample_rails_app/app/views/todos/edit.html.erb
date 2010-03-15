@@ -1,0 +1,40 @@
+<h1>Editing todos</h1>
+
+<% form_for(@todos) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :user_id %><br />
+    <%= f.text_field :user_id %>
+  </p>
+  <p>
+    <%= f.label :start_time %><br />
+    <%= f.text_field :start_time %>
+  </p>
+  <p>
+    <%= f.label :end_time %><br />
+    <%= f.text_field :end_time %>
+  </p>
+  <p>
+    <%= f.label :location %><br />
+    <%= f.text_field :location %>
+  </p>
+  <p>
+    <%= f.label :calendar %><br />
+    <%= f.text_field :calendar %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_field :description %>
+  </p>
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @todos %> |
+<%= link_to 'Back', todos_path %>
